@@ -1,0 +1,10 @@
+langchain_openai 
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
+bs4
+PyPDF2
+beautifulsoup4
+pymupdf
