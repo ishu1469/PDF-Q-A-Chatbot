@@ -8,3 +8,6 @@ bs4
 PyPDF2
 beautifulsoup4
 pymupdf
+uvicorn
+fastapi
+websockets
